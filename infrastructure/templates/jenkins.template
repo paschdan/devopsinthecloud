@@ -139,6 +139,7 @@
         "libxslt-devel"			: [],
         "libyaml-devel"			: [],
         "mysql-devel"       : [],
+        "gem"               : [],
         "mysql-server"      : []
               }
             },
